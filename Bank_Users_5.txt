@@ -1,0 +1,104 @@
+First Name	Last Name	Date of Birth	Email	Identification Number	Password	Address	Phone Number	Checking Account Number	Savings Account Number	Credit Account Number	Checking Starting Balance	Savings Starting Balance	Credit Starting Balance	Credit Max
+C	3PO	"May 8, 1970"	C3PO@disney.com	100	Password149	"538 W. University Ave, El Paso, TX 79968"	(915) 747-5038	1099	2099	3099	1516.58	3906.77	-1349.54	3728
+Daniel	A	"April 4, 1961"	DanielA@disney.com	63	Password112	"501 W. University Ave, El Paso, TX 79968"	(915) 747-5001	1062	2062	3062	1340.62	1077.89	-282.62	4016
+Sean	Aguilar	"January 7, 1929"	SeanAguilar@disney.com	37	Password86	"1314 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4637	1036	2036	3036	1943.87	3312.98	-340.56	5371
+Jafar	Aladdin	"December 29, 1972"	JafarAladdin@disney.com	18	Password67	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1017	2017	3017	794.88	1326.96	-1582.11	9683
+Aaron	Alarcon	"October 16, 1965"	AaronAlarcon@disney.com	38	Password87	"1315 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4638	1037	2037	3037	709.44	1053.42	-1343.96	9756
+Bryant	Allsup	"October 24, 1965"	BryantAllsup@disney.com	39	Password88	"1316 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4639	1038	2038	3038	1340.54	2903.33	-1198.99	8094
+Captain	America	"November 2, 1937"	CaptainAmerica@disney.com	92	Password141	"530 W. University Ave, El Paso, TX 79968"	(915) 747-5030	1091	2091	3091	579.94	276.90	-1393.02	9141
+Nathan	Aun	"February 12, 2013"	NathanAun@disney.com	40	Password89	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1039	2039	3039	1386.84	49.46	-262.72	3510
+Daniel	B	"October 3, 1955"	DanielB@disney.com	64	Password113	"502 W. University Ave, El Paso, TX 79968"	(915) 747-5002	1063	2063	3063	1254.89	1138.63	-2.39	8692
+William	Basquez	"March 23, 1953"	WilliamBasquez@disney.com	41	Password90	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1040	2040	3040	1152.23	2043.12	-1110.15	3759
+Tinker	Bell	"November 18, 1931"	TinkerBell@disney.com	88	Password137	"526 W. University Ave, El Paso, TX 79968"	(915) 747-5026	1087	2087	3087	574.82	1282.65	-1342.20	6507
+Daniel	C	"March 14, 1970"	DanielC@disney.com	65	Password114	"503 W. University Ave, El Paso, TX 79968"	(915) 747-5003	1064	2064	3064	526.75	769.89	-1328.78	3954
+Fabian	Cano	"June 20, 1944"	FabianCano@disney.com	42	Password91	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1041	2041	3041	705.78	2351.83	-507.36	5281
+Denise	Castro	"August 11, 1953"	DeniseCastro@disney.com	43	Password92	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1042	2042	3042	461.46	3234.26	-1159.62	7831
+Karla	Chavez	"September 23, 1998"	KarlaChavez@disney.com	44	Password93	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1043	2043	3043	302.18	2940.97	-1805.47	7390
+Daniel	D	"May 11, 1969"	DanielD@disney.com	66	Password115	"504 W. University Ave, El Paso, TX 79968"	(915) 747-5004	1065	2065	3065	1956.54	1872.13	-117.61	7778
+R2	D2	"September 30, 1950"	R2D2@disney.com	99	Password148	"537 W. University Ave, El Paso, TX 79968"	(915) 747-5037	1098	2098	3098	1840.51	1784.37	-1180.01	9000
+Solomon	Davis	"May 28, 1982"	SolomonDavis@disney.com	45	Password94	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1044	2044	3044	1819.39	519.32	-1555.92	6311
+Cruella	De Vil	"April 15, 2019"	CruellaDe Vil@disney.com	22	Password71	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1021	2021	3021	975.82	3506.75	-1671.20	4178
+Goofy	Disney	"June 2, 1988"	GoofyDisney@disney.com	4	Password53	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1003	2003	3003	962.79	3272.63	-232.52	9950
+Pluto	Disney	"March 21, 1990"	PlutoDisney@disney.com	5	Password54	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1004	2004	3004	156.24	2403.97	-12.41	6824
+Chip	Disney	"December 25, 1996"	ChipDisney@disney.com	6	Password55	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1005	2005	3005	1369.24	4788.93	-1936.34	6766
+Dale	Disney	"September 15, 1969"	DaleDisney@disney.com	7	Password56	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1006	2006	3006	1040.16	4372.72	-707.80	8901
+Cinderella	Disney	"May 20, 1992"	CinderellaDisney@disney.com	8	Password57	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1007	2007	3007	614.22	1240.63	-928.28	7074
+Ariel	Disney	"January 24, 2006"	ArielDisney@disney.com	9	Password58	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1008	2008	3008	1762.41	588.85	-381.05	9999
+Jasmine	Disney	"February 15, 2011"	JasmineDisney@disney.com	10	Password59	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1009	2009	3009	1716.06	3570.51	-1398.32	3947
+Aladdin	Disney	"June 12, 1963"	AladdinDisney@disney.com	11	Password60	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1010	2010	3010	914.78	4724.40	-1392.51	8790
+Simba	Disney	"December 11, 2004"	SimbaDisney@disney.com	12	Password61	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1011	2011	3011	1591.70	683.04	-1977.06	5145
+Mufassa	Disney	"January 12, 2006"	MufassaDisney@disney.com	13	Password62	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1012	2012	3012	1926.35	1260.63	-426.76	6941
+Aurora	Disney	"July 10, 1965"	AuroraDisney@disney.com	14	Password63	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1013	2013	3013	369.38	3144.46	-175.39	5379
+Woody	Disney	"January 21, 1932"	WoodyDisney@disney.com	16	Password65	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1015	2015	3015	646.15	2823.21	-267.11	5272
+Beast	Disney	"April 5, 1943"	BeastDisney@disney.com	20	Password69	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1019	2019	3019	1828.34	1904.26	-1163.95	5153
+Belle	Disney	"November 22, 1996"	BelleDisney@disney.com	21	Password70	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1020	2020	3020	824.11	47.39	-1108.47	7599
+Gaston	Disney	"December 17, 2013"	GastonDisney@disney.com	25	Password74	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1024	2024	3024	1047.06	4371.97	-891.35	4037
+Kaa	Disney	"August 18, 1945"	KaaDisney@disney.com	28	Password77	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1027	2027	3027	1998.96	375.34	-286.82	6186
+Pinocchio	Disney	"September 5, 1937"	PinocchioDisney@disney.com	30	Password79	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1029	2029	3029	693.53	2557.87	-365.78	9957
+Quasimodo	Disney	"November 6, 1955"	QuasimodoDisney@disney.com	32	Password81	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1031	2031	3031	1429.14	611.79	-212.66	7363
+Hercules	Disney	"July 9, 1953"	HerculesDisney@disney.com	33	Password82	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1032	2032	3032	261.00	871.85	-542.87	6062
+Mulan	Disney	"October 24, 1986"	MulanDisney@disney.com	34	Password83	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1033	2033	3033	1437.51	4674.15	-1141.98	3434
+Lilo	Disney	"November 8, 1953"	LiloDisney@disney.com	35	Password84	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1034	2034	3034	238.26	1596.40	-121.91	4558
+Stitch	Disney	"October 30, 2006"	StitchDisney@disney.com	36	Password85	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1035	2035	3035	832.75	4364.56	-735.47	8092
+Pete	Disney	"March 1, 1946"	PeteDisney@disney.com	91	Password140	"529 W. University Ave, El Paso, TX 79968"	(915) 747-5029	1090	2090	3090	505.91	4771.34	-2000.90	5383
+Walt	Disney	"October 29, 1977"	WaltDisney@disney.com	97	Password146	"535 W. University Ave, El Paso, TX 79968"	(915) 747-5035	1096	2096	3096	340.36	2524.42	-1161.64	9156
+Roy	Disney	"May 17, 1938"	RoyDisney@disney.com	98	Password147	"536 W. University Ave, El Paso, TX 79968"	(915) 747-5036	1097	2097	3097	1939.72	2600.15	-144.24	4394
+Hugo	Dominguez	"December 24, 1940"	HugoDominguez@disney.com	46	Password95	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1045	2045	3045	738.46	1538.66	-873.40	8768
+Donald	Duck	"June 19, 1952"	DonaldDuck@disney.com	2	Password51	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1001	2001	3001	361.10	1340.10	-643.52	3764
+Daniel	E	"July 28, 1983"	DanielE@disney.com	67	Password116	"505 W. University Ave, El Paso, TX 79968"	(915) 747-5005	1066	2066	3066	1217.32	3084.32	-1829.52	9095
+Dumbo	Elephant	"July 11, 1997"	DumboElephant@disney.com	96	Password145	"534 W. University Ave, El Paso, TX 79968"	(915) 747-5034	1095	2095	3095	1378.12	683.45	-1235.48	8406
+Prince	Eric	"January 26, 2007"	PrinceEric@disney.com	31	Password80	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1030	2030	3030	1054.17	3236.04	-867.74	7263
+Daniel	F	"June 8, 1963"	DanielF@disney.com	68	Password117	"506 W. University Ave, El Paso, TX 79968"	(915) 747-5006	1067	2067	3067	1556.48	3814.64	-907.34	5657
+Seth	Flores	"November 7, 1976"	SethFlores@disney.com	47	Password96	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1046	2046	3046	483.20	1109.16	-1145.95	9573
+Daniel	G	"January 3, 1980"	DanielG@disney.com	69	Password118	"507 W. University Ave, El Paso, TX 79968"	(915) 747-5007	1068	2068	3068	236.32	1451.79	-1426.89	3826
+Daniel	H	"December 14, 1996"	DanielH@disney.com	70	Password119	"508 W. University Ave, El Paso, TX 79968"	(915) 747-5008	1069	2069	3069	840.05	1014.45	-1984.40	4646
+Anthony	Herrera	"December 4, 1993"	AnthonyHerrera@disney.com	48	Password97	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1047	2047	3047	852.59	2082.11	-1500.11	5856
+Captain	Hook	"January 6, 1944"	CaptainHook@disney.com	27	Password76	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1026	2026	3026	1633.77	1170.74	-1242.81	4558
+Daniel	I	"October 21, 1990"	DanielI@disney.com	71	Password120	"509 W. University Ave, El Paso, TX 79968"	(915) 747-5009	1070	2070	3070	256.35	718.11	-1151.15	9329
+Juan	Isasi	"August 26, 2013"	JuanIsasi@disney.com	49	Password98	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1048	2048	3048	175.36	4171.21	-1021.39	6544
+Daniel	J	"August 23, 1963"	DanielJ@disney.com	72	Password121	"510 W. University Ave, El Paso, TX 79968"	(915) 747-5010	1071	2071	3071	1586.54	505.41	-149.84	9008
+Yoda	Jedi	"April 18, 1994"	YodaJedi@disney.com	103	Password152	"541 W. University Ave, El Paso, TX 79968"	(915) 747-5041	1102	2102	3102	54.67	851.61	-1398.05	3618
+Daniel	K	"March 26, 2005"	DanielK@disney.com	73	Password122	"511 W. University Ave, El Paso, TX 79968"	(915) 747-5011	1072	2072	3072	1395.87	1344.08	-1064.37	9612
+Obi	Kenobi	"December 6, 1992"	ObiKenobi@disney.com	102	Password151	"540 W. University Ave, El Paso, TX 79968"	(915) 747-5040	1101	2101	3101	646.60	1181.04	-662.53	5219
+Shere	Khan	"November 25, 1948"	ShereKhan@disney.com	26	Password75	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1025	2025	3025	1954.23	2271.46	-1945.44	4358
+Simba	King	"November 3, 1974"	SimbaKing@disney.com	24	Password73	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1023	2023	3023	283.01	4563.47	-2000.57	9373
+Daniel	L	"December 17, 1956"	DanielL@disney.com	74	Password123	"512 W. University Ave, El Paso, TX 79968"	(915) 747-5012	1073	2073	3073	1567.82	1646.27	-1056.41	6025
+Buzz	Lightyear	"February 12, 2015"	BuzzLightyear@disney.com	17	Password66	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1016	2016	3016	1261.22	998.80	-502.43	6136
+Scar	Lion	"February 6, 1988"	ScarLion@disney.com	23	Password72	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1022	2022	3022	1746.93	2924.99	-419.70	6440
+Valeria	Macias	"August 23, 1980"	ValeriaMacias@disney.com	50	Password99	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1049	2049	3049	1799.33	794.45	-1280.08	9126
+Iron	Man	"May 20, 1945"	IronMan@disney.com	90	Password139	"528 W. University Ave, El Paso, TX 79968"	(915) 747-5028	1089	2089	3089	1825.05	3004.66	-1075.42	4380
+Ana	Mata Sanchez	"September 29, 1945"	AnaMata Sanchez@disney.com	51	Password100	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1050	2050	3050	730.52	1445.42	-1399.14	7445
+Daniel	Mejia	"July 23, 1989"	DanielMejia@disney.com	62	Password111	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1061	2061	3061	832.02	4746.99	-19.56	3824
+Ursela	Mermaid	"September 9, 2006"	UrselaMermaid@disney.com	19	Password68	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1018	2018	3018	438.85	212.18	-348.54	9424
+Bryan	Molina	"December 4, 1984"	BryanMolina@disney.com	52	Password101	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1051	2051	3051	1286.64	2293.47	-341.37	3375
+Mickey	Mouse	"July 15, 1936"	MickeyMouse@disney.com	1	Password50	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1000	2000	3000	70.61	1727.13	-124.06	7745
+Minnie	Mouse	"December 31, 1970"	MinnieMouse@disney.com	3	Password52	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1002	2002	3002	567.68	1345.50	-1725.48	3850
+Daniel	N	"December 1, 1951"	DanielN@disney.com	75	Password124	"513 W. University Ave, El Paso, TX 79968"	(915) 747-5013	1074	2074	3074	314.68	3580.15	-470.42	6943
+Ericka	Najera	"September 27, 2018"	ErickaNajera@disney.com	53	Password102	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1052	2052	3052	1545.25	3761.82	-732.19	7205
+Daniel	O	"January 7, 1989"	DanielO@disney.com	76	Password125	"514 W. University Ave, El Paso, TX 79968"	(915) 747-5014	1075	2075	3075	616.66	4133.25	-428.47	6090
+Daniel	P	"February 21, 2012"	DanielP@disney.com	77	Password126	"515 W. University Ave, El Paso, TX 79968"	(915) 747-5015	1076	2076	3076	810.38	4393.01	-673.87	9864
+Cesar	Padron	"May 6, 1982"	CesarPadron@disney.com	54	Password103	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1053	2053	3053	1125.84	188.04	-218.33	6612
+Peter	Pan	"July 6, 1932"	PeterPan@disney.com	15	Password64	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1014	2014	3014	1274.17	1640.57	-684.41	6176
+Peter	Parker	"February 8, 2019"	PeterParker@disney.com	89	Password138	"527 W. University Ave, El Paso, TX 79968"	(915) 747-5027	1088	2088	3088	866.02	2334.55	-1850.27	4164
+Ricardo	Pena	"June 8, 1954"	RicardoPena@disney.com	55	Password104	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1054	2054	3054	1140.27	1283.37	-829.69	6126
+Winnie	Pooh	"February 27, 1958"	WinniePooh@disney.com	93	Password142	"531 W. University Ave, El Paso, TX 79968"	(915) 747-5031	1092	2092	3092	817.15	78.80	-199.02	7278
+Tigger	Pooh	"December 26, 2007"	TiggerPooh@disney.com	94	Password143	"532 W. University Ave, El Paso, TX 79968"	(915) 747-5032	1093	2093	3093	646.96	3529.38	-1589.66	8453
+Piglet	Pooh	"August 30, 1995"	PigletPooh@disney.com	95	Password144	"533 W. University Ave, El Paso, TX 79968"	(915) 747-5033	1094	2094	3094	1188.84	2669.21	-1507.86	4088
+Daniel	Q	"March 26, 2018"	DanielQ@disney.com	78	Password127	"516 W. University Ave, El Paso, TX 79968"	(915) 747-5016	1077	2077	3077	896.23	3103.19	-1825.78	4952
+Evil	Queen	"June 15, 2002"	EvilQueen@disney.com	29	Password78	"1313 Disneyland Dr, Anaheim, CA 92802"	(714) 781-4636	1028	2028	3028	1269.81	247.87	-1318.98	9192
+Rigoberto	Quiroz	"December 28, 1948"	RigobertoQuiroz@disney.com	56	Password105	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1055	2055	3055	1031.99	2260.16	-457.97	9081
+Daniel	R	"May 11, 1996"	DanielR@disney.com	79	Password128	"517 W. University Ave, El Paso, TX 79968"	(915) 747-5017	1078	2078	3078	444.85	1523.55	-913.08	4473
+Kevin	Ramirez	"February 28, 1960"	KevinRamirez@disney.com	57	Password106	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1056	2056	3056	1163.60	3083.92	-524.58	5681
+Joshua	Ramos	"August 3, 1945"	JoshuaRamos@disney.com	58	Password107	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1057	2057	3057	1723.32	2183.96	-1908.86	5982
+Lewis	Roe	"February 4, 1978"	LewisRoe@disney.com	59	Password108	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1058	2058	3058	941.62	2344.21	-1160.97	7729
+Laila	Romero	"January 26, 1930"	LailaRomero@disney.com	60	Password109	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1059	2059	3059	1429.92	3097.40	-952.55	9072
+Daniel	S	"November 12, 1960"	DanielS@disney.com	80	Password129	"518 W. University Ave, El Paso, TX 79968"	(915) 747-5018	1079	2079	3079	220.34	1819.94	-838.93	9474
+Anakin	Skywalker	"April 7, 1978"	AnakinSkywalker@disney.com	101	Password150	"539 W. University Ave, El Paso, TX 79968"	(915) 747-5039	1100	2100	3100	1266.59	3447.18	-211.38	9602
+Daniel	T	"November 11, 1936"	DanielT@disney.com	81	Password130	"519 W. University Ave, El Paso, TX 79968"	(915) 747-5019	1080	2080	3080	1825.39	3870.06	-1878.82	4729
+Paola	Terrazas	"October 28, 1971"	PaolaTerrazas@disney.com	61	Password110	"500 W. University Ave, El Paso, TX 79968"	(915) 747-5000	1060	2060	3060	1339.11	1539.24	-1514.97	6982
+Daniel	U	"August 23, 2007"	DanielU@disney.com	82	Password131	"520 W. University Ave, El Paso, TX 79968"	(915) 747-5020	1081	2081	3081	739.20	2644.21	-555.60	9011
+Daniel	V	"February 13, 1965"	DanielV@disney.com	83	Password132	"521 W. University Ave, El Paso, TX 79968"	(915) 747-5021	1082	2082	3082	1856.93	48.10	-898.45	7715
+Daniel	W	"May 11, 1980"	DanielW@disney.com	84	Password133	"522 W. University Ave, El Paso, TX 79968"	(915) 747-5022	1083	2083	3083	1651.57	1499.47	-1141.87	3664
+Daniel	X	"February 10, 1966"	DanielX@disney.com	85	Password134	"523 W. University Ave, El Paso, TX 79968"	(915) 747-5023	1084	2084	3084	862.83	4045.63	-1531.84	4938
+Daniel	Y	"May 12, 1994"	DanielY@disney.com	86	Password135	"524 W. University Ave, El Paso, TX 79968"	(915) 747-5024	1085	2085	3085	1089.88	1037.77	-1780.81	9611
+Daniel	Z	"May 5, 1957"	DanielZ@disney.com	87	Password136	"525 W. University Ave, El Paso, TX 79968"	(915) 747-5025	1086	2086	3086	1794.00	1742.28	-1047.35	6615
